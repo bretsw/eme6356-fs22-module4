@@ -404,6 +404,46 @@ include_graphics("img/4-tidytags-workflow.jpg")
 
 ---
 
+# `r fa("fas fa-dice-six", fill = "#fff")` `r fa("fas fa-dice-three", fill = "#fff")` Web Analytics Example 9
+
+### **Scraping a job board** 
+
+```{r, out.width = "640px", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-indeed-web.png")
+```
+
+**[Indeed.com](https://www.indeed.com/jobs?q=instructional%20design&l&from=searchOnHP&vjk=d912682f2c003369)**
+
+---
+
+# `r fa("fas fa-dice-six", fill = "#fff")` `r fa("fas fa-dice-three", fill = "#fff")` Web Analytics Example 9
+
+### **Scraping a job board** 
+
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-indeed-inspect.png")
+```
+
+**[Indeed.com](https://www.indeed.com/jobs?q=instructional%20design&l&from=searchOnHP&vjk=d912682f2c003369)**
+
+---
+
+# `r fa("fas fa-dice-six", fill = "#fff")` `r fa("fas fa-dice-three", fill = "#fff")` Web Analytics Example 9
+
+### **Scraping a job board** 
+
+```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
+include_graphics("img/4-indeed-source.png")
+```
+
+**[Indeed.com](https://www.indeed.com/jobs?q=instructional%20design&l&from=searchOnHP&vjk=d912682f2c003369)**
+
+--
+
+**Guide: [A Detailed Guide to Web Scraping Indeed Jobs With R and rvest](https://thatdatatho.com/web-scraping-indeed-jobs-r-rvest/)**
+
+---
+
 class: inverse, center, middle
 
 # `r fa("fas fa-question", fill = "#fff")` <br><br> **What might we measure?**
