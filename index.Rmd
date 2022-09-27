@@ -279,9 +279,9 @@ include_graphics("img/4-reddit-api.png")
 
 # `r fa("fas fa-dice-five", fill = "#fff")` Web Analytics Example 5
 
-### **PoliDashboard: Facebook Polical Ads**
+### **PoliDashboard: Facebook Political Ads**
 
-```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
 include_graphics("img/4-polidashboard.png")
 ```
 
